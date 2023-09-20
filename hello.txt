@@ -9,4 +9,4 @@ hello cbz!hello git!
 hello cbz!hello git!
 hello cbz!hello git!
 hello cbz!hello git!
-hello cbz!hello git!
+hello cbz!hello git! hot-fix test
